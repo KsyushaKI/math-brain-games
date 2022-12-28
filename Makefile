@@ -14,6 +14,6 @@ package-install:
 	python3 -m pip install --user dist/*.whl
 
 package-reinstall:
-	pip3 install --user --force-reinstall dist/*.whl
+	python3 -m pip install --user dist/*.whl --force-reinstall
 
 .PHONY: install brain-games build publish package-install package-reinstall
