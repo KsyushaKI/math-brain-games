@@ -9,6 +9,7 @@ def greeting_user():
 
 
 def logic_of_brain_games(game):
+
     greeting_user()
     game.start_game()
     win_game = f'Congratulations, {name}!'
@@ -16,15 +17,14 @@ def logic_of_brain_games(game):
     count_of_game_round = 3
 
     for _ in range(count_of_game_round):
-        logic_of_the_questions = game.get_question()
-        print(f'Question: {logic_of_the_questions}')
-        answer = prompt.string('Your answer: ')
-        correct_answer = game.get_correct_answer(logic_of_the_questions)
-        lose_game = (f'"{answer}" is wrong answer ;(. '
+        question, correct_answer = game.get_question_and_correct_answer()
+        print(f'Question: {question}')
+        user_answer = prompt.string('Your answer: ')
+        lose_game = (f'"{user_answer}" is wrong answer ;(. '
                      f'Correct answer was "{correct_answer}".'
                      f"\nLet's try again, {name}!")
 
-        if answer != correct_answer:
+        if user_answer != correct_answer:
             return print(lose_game)
         else:
             print(correct_result)
