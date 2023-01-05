@@ -14,3 +14,4 @@ Projects demos:
 
 [brain-progression](https://asciinema.org/a/549682)
 
+[brain-prime](https://asciinema.org/a/549705)
