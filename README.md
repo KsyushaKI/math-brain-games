@@ -20,16 +20,25 @@ My first project with 5 console brain-games.
 ### Projects demos:
 
 1.Brain-even:
+
 [![asciicast](https://asciinema.org/a/549876.svg)](https://asciinema.org/a/549876)
 
+
 2. Brain-calc:
+
 [![asciicast](https://asciinema.org/a/549877.svg)](https://asciinema.org/a/549877)
 
+
 3. Brain-gcd:
+
 [![asciicast](https://asciinema.org/a/549878.svg)](https://asciinema.org/a/549878)
 
+
 4. Brain-progression:
+
 [![asciicast](https://asciinema.org/a/549682.svg)](https://asciinema.org/a/549682)
 
+
 5.Brain-prime:
+
 [![asciicast](https://asciinema.org/a/549705.svg)](https://asciinema.org/a/549705)
