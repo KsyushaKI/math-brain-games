@@ -20,16 +20,16 @@ My first project with 5 console brain-games.
 ### Projects demos:
 
 1.Brain-even:
-<script id="asciicast-549876" src="https://asciinema.org/a/549876.js" async></script>
+[![asciicast](https://asciinema.org/a/549876.svg)](https://asciinema.org/a/549876)
 
 2. Brain-calc:
-<script id="asciicast-549877" src="https://asciinema.org/a/549877.js" async></script>
+[![asciicast](https://asciinema.org/a/549877.svg)](https://asciinema.org/a/549877)
 
 3. Brain-gcd:
-<script id="asciicast-549878" src="https://asciinema.org/a/549878.js" async></script>
+[![asciicast](https://asciinema.org/a/549878.svg)](https://asciinema.org/a/549878)
 
 4. Brain-progression:
-<script id="asciicast-549682" src="https://asciinema.org/a/549682.js" async></script>
+[![asciicast](https://asciinema.org/a/549682.svg)](https://asciinema.org/a/549682)
 
 5.Brain-prime:
-<script id="asciicast-549705" src="https://asciinema.org/a/549705.js" async></script>
+[![asciicast](https://asciinema.org/a/549705.svg)](https://asciinema.org/a/549705)
