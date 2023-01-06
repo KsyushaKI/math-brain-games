@@ -1,14 +1,13 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Project with 5 console games"
 authors = ["KsyushaKI <oksanaakadem39@gmail.com>"]
 readme = "README.md"
 packages = [{include = "brain_games"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-brain-games = "^0.5.1"
 prompt = "^0.4.1"
 
 [tool.poetry.scripts]
