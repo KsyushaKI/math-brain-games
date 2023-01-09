@@ -6,8 +6,8 @@ def greeting_user():
     print("Welcome to the Brain Games!")
     global name
     name = prompt.string('May I have your name? ')
-
-    return name
+    
+    return print(f'Hello, {name}!')
 
 
 def logic_of_brain_games(game):
