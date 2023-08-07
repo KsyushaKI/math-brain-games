@@ -10,7 +10,7 @@
 
 ## About
 
-This is My first python project.
+This is my first python project.
 
 "**Math Brain Games**" is a set of five console games. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.
 
