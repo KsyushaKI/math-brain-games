@@ -229,4 +229,4 @@ Correct!
 This is the first training project of the ["Python Developer"](https://ru.hexlet.io/programs/python) course on [Hexlet.io](https://hexlet.io)
 
 > GitHub [@KsyushaKI](https://github.com/KsyushaKI) &nbsp;&middot;&nbsp;
-> LinkedIn [Oksana Karshakevich](www.linkedin.com/in/oksana-karshakevich)
+> LinkedIn [@Oksana Karshakevich](https://www.linkedin.com/in/oksana-karshakevich/)
