@@ -6,6 +6,7 @@
 
 [![Actions Status](https://github.com/KsyushaKI/math-brain-games/workflows/hexlet-check/badge.svg)](https://github.com/KsyushaKI/math-brain-games/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/233695498b57ac3de65b/maintainability)](https://codeclimate.com/github/KsyushaKI/math-brain-games/maintainability)
+</div>
 
 ## About
 
